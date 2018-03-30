@@ -23,16 +23,16 @@
     "notificationList":
     [
       {
-        "title":"Q1 Board Meeting",
-        "time":"Today at 12:30pm"
+        "messageTitle": "Q1 Board Meeting",
+        "messageSentTime": "Today at 12:30pm"
       },
       {
-        "title":"Severe Thunderstorm Watch",
-        "time":"Yesterday at 12:30pm"
+        "messageTitle": "Severe Thunderstorm Watch",
+        "messageSentTime": "Yesterday at 12:30pm"
       },
       {
-        "title":"Crisis Response Roll Call",
-        "time":"Today at 11:30am"
+        "messageTitle": "Crisis Response Roll Call",
+        "messageSentTime": "Today at 11:30am"
       }
     ]
   }
