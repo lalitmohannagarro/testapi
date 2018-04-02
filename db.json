@@ -1,22 +1,22 @@
 {
   "feature": [
     {
-      "featureName": "Chat",
+      "featureName": "chat",
       "featureDisplayTitle": "Chat",
       "featureCount": 5
     },
     {
-      "featureName": "Lockbox",
+      "featureName": "lockbox",
       "featureDisplayTitle": "Lockbox",
       "featureCount": 35
     },
     {
-      "featureName": "Event Stream",
+      "featureName": "event stream",
       "featureDisplayTitle": "Event Stream",
       "featureCount": 2
     },
     {
-      "featureName": "Approvals",
+      "featureName": "approvals",
       "featureDisplayTitle": "Approvals",
       "featureCount": 25
     }
