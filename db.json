@@ -1,22 +1,22 @@
 {
   "feature": [
     {
-      "featureName": "chat",
+      "featureType": "chat",
       "featureDisplayTitle": "Chat",
       "featureCount": 5
     },
     {
-      "featureName": "lockbox",
+      "featureType": "lockbox",
       "featureDisplayTitle": "Lockbox",
       "featureCount": 35
     },
     {
-      "featureName": "eventstream",
+      "featureType": "eventstream",
       "featureDisplayTitle": "Event Stream",
       "featureCount": 2
     },
     {
-      "featureName": "approvals",
+      "featureType": "approvals",
       "featureDisplayTitle": "Approvals",
       "featureCount": 25
     }
