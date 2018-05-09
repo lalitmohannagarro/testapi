@@ -28,15 +28,15 @@
     [
       {
         "messageTitle": "Q1 Board Meeting",
-        "messageSentTime": "Today at 12:30pm"
+        "messageSentTime": 1418387035
       },
       {
         "messageTitle": "Severe Thunderstorm Watch",
-        "messageSentTime": "Yesterday at 12:30pm"
+        "messageSentTime": 1525782235
       },
       {
         "messageTitle": "Crisis Response Roll Call",
-        "messageSentTime": "Today at 11:30am"
+        "messageSentTime": 1525857835
       }
     ]
   }
