@@ -22,9 +22,7 @@
     }
   ],
 
-  "notifications":{
-    "notificationList":
-    [
+  "notificationList": [
       {
         "messageTitle": "Q1 Board Meeting",
         "messageSentTime": 1418387035
@@ -38,5 +36,4 @@
         "messageSentTime": 1525857835
       }
     ]
-  }
 }
